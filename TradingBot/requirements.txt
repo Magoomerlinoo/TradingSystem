@@ -1,0 +1,14 @@
+metaTrader5
+pandas
+pandas-ta
+numpy
+matplotlib
+scikit-learn
+tensorflow
+torch
+transformers
+telebot
+python-dotenv
+cryptography
+psutil
+tqdm

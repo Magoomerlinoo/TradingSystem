@@ -1,0 +1,14 @@
+{
+  "modification_type": "code_patch",
+  "engine_used": "gpt-4-turbo",
+  "file": "bot.py",
+  "modification": {
+    "action": "insert",
+    "location": {
+      "type": "string",
+      "value": "def main()"
+    },
+    "new_value": "    print('[PatchTest] ✅ Inserimento avvenuto.')"
+  },
+  "reason": "Aggiunta print di test a main() per verificare hot-reload runtime"
+}

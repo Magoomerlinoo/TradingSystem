@@ -1,0 +1,1502 @@
+{
+  "EURUSD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "GBPUSD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "USDCHF": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "USDJPY": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "USDCAD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "AUDUSD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "AUDNZD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "AUDCAD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "AUDCHF": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "CHFJPY": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "AUDJPY": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "EURGBP": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "EURAUD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "EURCHF": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "EURJPY": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "EURNZD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "EURCAD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "GBPCHF": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "GBPJPY": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "CADCHF": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "CADJPY": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "USDSEK": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "EURNOK": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "EURSEK": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "NZDCHF": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "TRYJPY": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "USDNOK": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "USDPLN": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "USDSGD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "GBPSEK": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "EURPLN": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "EURTRY": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "GBPAUD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "GBPCAD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "GBPNZD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "NZDCAD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "NZDJPY": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "NZDUSD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "USDMXN": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "USDTRY": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "USDZAR": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "USDCNH": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "XAUUSD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "XAGUSD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "BTCUSD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "ETHUSD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "LTCUSD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "XRPUSD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "DOGUSD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  },
+  "ADAUSD": {
+    "RSI": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MACD": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "MA": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Stochastic": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Bollinger": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "OBV": {
+      "long": 1.0,
+      "short": 1.0
+    },
+    "Ichimoku": {
+      "long": 1.0,
+      "short": 1.0
+    }
+  }
+}

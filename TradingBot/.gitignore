@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.log
+*.sqlite3
+
+# Jupyter/IPython
+.ipynb_checkpoints
+
+# Secrets & Configs
+.env
+*.key
+*.pem
+*.crt
+
+# Encrypted models & training logs
+models/*.h5
+models/*.h5.enc
+models/*.pkl
+models/*_model.*
+data/raw/
+data/processed/
+log_models.txt
+models/sentiment_model/model.safetensors
+*.csv
+
+# MT5 temp/session files (if any)
+*.log
+*.dat
+*.ini
+
+# System-specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.bak
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
+# OS + packaging
+*.zip
+*.tar.gz
+
+# Logs
+logs/
+*.log
+log.txt

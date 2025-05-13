@@ -1,0 +1,29 @@
+AutoManager/
+	integration_logs/
+	modification_logs/
+		json/
+		processed/
+	utils/
+		__init__.py
+		context_builder.py
+		json/
+	agent.py
+	dynamic_leverage_manager.py
+	integrator.py
+	openai_manager.py
+	progressive_scaling_manager.py
+	supervisor.py
+	telegram_notifier.py
+	structure.txt
+	github_uploader.py
+	json_schema.py
+	lock_manager.py
+	README.md
+	requirements.txt
+	run.py
+	run_agent.py
+	settings_manager.py
+	state_writer.py
+	test.py
+	test_full_cycle.py
+	

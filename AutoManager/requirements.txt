@@ -1,0 +1,13 @@
+MetaTrader5
+fpdf
+jsonschema
+keras
+matplotlib
+numpy
+openai
+pandas
+pandas-ta
+python-telegram-bot
+requests
+scikit-learn
+tensorflow
