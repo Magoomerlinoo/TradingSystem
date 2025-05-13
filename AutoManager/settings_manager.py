@@ -9,7 +9,7 @@ Configurazioni globali per AutoManager
 # ==============================
 
 # Chiave API per OpenAI
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "placeholder"
 
 # Routing motore OpenAI
 # Se True, per le patch di codice useremo Codex anziché GPT-4
@@ -35,8 +35,8 @@ GIT_BRANCH = "master"
 # ==============================
 
 # Token e chat ID per notifiche Telegram
-TELEGRAM_BOT_TOKEN = "7613323928:AAEM8_c2TmKmE6Y57wJFz0IMHHVPzfplars"
-TELEGRAM_CHAT_ID    = "284265225"
+TELEGRAM_BOT_TOKEN = "placeholder"
+TELEGRAM_CHAT_ID    = "placeholder"
 
 # ==============================
 # === PERFORMANCE TARGETS ===
